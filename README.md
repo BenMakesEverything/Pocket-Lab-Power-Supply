@@ -7,6 +7,7 @@ A lab bench power supply, but pocket-sized and battery powered. (This repo is cu
 ## What it is:
 
 A 4S Lithium Ion-based Battery Bank which can act as a portable Lab-Bench Power Supply. Designed for use with 4S lithium-ion battery packs.
+Video about the project: https://www.youtube.com/watch?v=i2HRpcJS6Vk
 
 ## Features:
 
