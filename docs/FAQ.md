@@ -1,5 +1,9 @@
 # Frequently Asked Questions
 
+## Q: Does this design include a Battery Management System (BMS)?
+
+A: No, you MUST use this PCB in conjunction with a battery pack that includes a BMS to prevent damage.
+
 ## Q: What is the maximum output voltage?
 
 A: Short Answer: 20V. 
@@ -21,6 +25,10 @@ A: Yes (if the load is less than the charging current)
 ## Q: What is the battery life?
 
 A: That depends on what you are powering! Capacity is 4500mAh.
+
+## Q: What happens when the battery drains down to its minimum level?
+
+A: the BQ25792 chip will cut off battery drain before it goes below 12V (3V per cell). This will cause the device to simply not power on.
 
 ## Q: Can the firmware be modified?
 
