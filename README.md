@@ -35,6 +35,7 @@ Video about the project: https://www.youtube.com/watch?v=i2HRpcJS6Vk
 - 4x M3 Hex-head/socket bolts (16mm threaded portion)
 - Plastic cap for button
 - Encoder Knob [LINK](https://www.adafruit.com/product/5531)
+- Components BOM: [here](hardware/bom/)
 
 ## Documentation:
 
