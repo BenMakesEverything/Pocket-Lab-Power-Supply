@@ -1,6 +1,8 @@
 # Pocket Lab Power Supply
 
-A lab bench power supply, but pocket-sized and battery powered. (This repo is currently WIP)
+## *IMPORTANT UPDATE: One of the 4S Packs has become over-discharged (I have 3 of the same unit, the other 2 are fine). At this time, I am still investigating, but I do not believe the issue was my circuit - I think it was a problem with the pack. Nothing dangerous has happened so far, but I have removed the link to that product for now. I am investigating further and will update this repo when I determine the root cause.
+
+A lab bench power supply, but pocket-sized and battery powered.
 
 ![Project photo](docs/images/photo-main.jpg)
 
@@ -28,7 +30,7 @@ Video about the project: https://www.youtube.com/watch?v=i2HRpcJS6Vk
 - Main PCB
 - "Backpack" PCB for Display Module
 - Display: HCMS-2971 or HCMS-2972 or HCMS-2973 or HCMS-2974 or HCMS-2975
-- 4S 21700 Battery with integrated BMS (XH2.54mm connector) [LINK](https://www.foxbuying.com/21700-14-8v-4s1p-4500mah-rechargeable-power-lithium-battery-pack-with-customised-connetor.html)
+- 4S 21700 Battery with integrated BMS (XH2.54mm connector) REMOVED LINK DUE TO POTENTIAL ISSUES
 - Faceplate
 - 3D Printable Body
 - 4x M3 Threaded Inserts
