@@ -1,6 +1,6 @@
 # Pocket Lab Power Supply
 
-## *IMPORTANT UPDATE: One of the 4S Packs has become over-discharged (I have 3 of the same unit, the other 2 are fine). At this time, I am still investigating, but I do not believe the issue was my circuit - I think it was a problem with the pack. Nothing dangerous has happened so far, but I have removed the link to that product for now. I am investigating further and will update this repo when I determine the root cause.
+## UPDATE: Removed link to the 4S battery pack I used. One of the units I purchased had issues with it's integrated BMS. However, after some investigation - there was no problem with my circuit. If I find a higher-quality battery pack, I will post the link in the parts list here.
 
 A lab bench power supply, but pocket-sized and battery powered.
 
